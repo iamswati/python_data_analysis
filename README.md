@@ -1,4 +1,4 @@
-# APPLY EXPLORATORY ANALYSIS WITH PYTHON FOR BUSINESS VALUES
+# APPLY EXPLORATORY ANALYSIS📈 WITH PYTHON FOR BUSINESS VALUES
 
 **Values Skills:** Data pre-processing, descriptive statistics, Python programming
 
