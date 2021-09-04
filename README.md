@@ -1,4 +1,4 @@
-# APPLY EXPLORATORY ANALYSIS📈 WITH PYTHON FOR BUSINESS VALUES
+# APPLY EXPLORATORY ANALYSIS📈 WITH PYTHON FOR BUSINESS VALUES [View on Website](https://iamswati.github.io/python_data_analysis/)
 
 **Values Skills:** Data pre-processing, descriptive statistics, Python programming
 
@@ -10,6 +10,7 @@ The manager invited you to a meeting to introduce you to the company's internati
 * Which countries have a high customer potential for our services?
 * For each of these countries, what will be the evolution of this customerpotential?
 * In which countries should one set up first?
+
 
 
 
